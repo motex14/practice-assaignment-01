@@ -1,6 +1,7 @@
 body{
     font-family: 'Tourney', cursive;
     font-size: 40px;
+    margin: 0;
     
 }
 .orange-color{
@@ -52,4 +53,35 @@ section h4{
     background-repeat: no-repeat;
     background-position: right;
 }
+.sec3{
+    background-image: url(picture/exp-bg.png);
+    position: left;
+    background-repeat: no-repeat;
+}
 
+.sec3{
+    display: flex;
+}
+.experience-item{
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+#web-dev-experience{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+#full-stuck-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;}
+    section{
+        margin-bottom: 100px;
+    }
