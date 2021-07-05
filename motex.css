@@ -1,0 +1,39 @@
+body{
+    font-family: 'Tourney', cursive;
+    font-size: 40px;
+    
+}
+.orange-color{
+    color: orange;
+}
+section p{
+   font-family: monospace;
+   font-size: 20px;
+}
+section h4{
+    font-family: arial black;
+}
+.section1{
+    display: flex;
+
+}
+.section1 img{
+    width: 80%;
+    margin-left: 90px;
+}
+.sec1div1{
+    
+    width: 1000px;
+
+}
+.button{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: arial black;
+    color: white;
+    font-size: 70%;
+    text-align: center;
+    padding: 5px;
+}
+
